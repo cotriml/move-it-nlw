@@ -16,7 +16,7 @@ This app is created to motivate all people that spend a lot of time on computer 
 
 - React
 - Next.js
-- Typesscript
+- Typescript
 
 > ## React Features
 
